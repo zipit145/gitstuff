@@ -1,2 +1,4 @@
 var div = document.querySelectorAll('div')
-div.innerText = "Team 2 is the best team :D"
+for(let i =0; i<div.length; i++) {
+    div[i].innerText = "Team 2 is the best team :D"
+}
