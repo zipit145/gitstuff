@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+    background-image: url('https://1000logos.net/wp-content/uploads/2017/01/Denver-Broncos-Logo.png')
+
+}
+h1{
+    color:orange;
+    border: 1px solid white; 
+}
+div{
+    border: 1px solid darkorange;
+    color: blue;
+}
